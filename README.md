@@ -1,7 +1,7 @@
 LSTM_for_father_work
 
 LSTM1 test graph
-https://github.com/cy6253/LSTM_for_father_work/issues/new
+![LSTM1_test](https://user-images.githubusercontent.com/39429635/125079400-8570a880-e0fe-11eb-92d1-24f67ae09f74.png)
 
 LSTM1 prediction graph
 ![LSTM1_predict](https://user-images.githubusercontent.com/39429635/125079027-214de480-e0fe-11eb-863e-e64d1b735db8.png)
